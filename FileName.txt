@@ -1,0 +1,1 @@
+Git commit - takes everything in staging and makes permanent snapshot
