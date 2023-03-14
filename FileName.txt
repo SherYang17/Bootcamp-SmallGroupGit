@@ -1,1 +1,2 @@
 Git commit - takes everything in staging and makes permanent snapshot
+Ls - Lists all files and directories within the current directory
