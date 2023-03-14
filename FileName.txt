@@ -1,3 +1,4 @@
 Git commit - takes everything in staging and makes permanent snapshot
-Ls - Lists all files and directories within the current directory
+touch index.html - will create an html file with the current directory
 git pull - fetches and merges the changes on the remote repository to your local repository updating it to the latest version
+git push : updates remote repo with all changes made locally
